@@ -2,7 +2,7 @@
 
 ## Overview
 
-ArXiv preprint: ==to do link==
+ArXiv preprint: (https://arxiv.org/abs/2610.01351)
 
 > [!WARNING]
 > The manuscript is under review, and the source code and reproduction details will be released after publication.
@@ -13,6 +13,15 @@ Vision-Language-Action (VLA) models have achieved high task success rates on rob
 
 ## Citation
 
-==to do create citation block==
+```bibtex
+@misc{higham2026successneedinvestigatingimpact,
+      title={Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks}, 
+      author={Sophie Higham and Riccardo Andrea Izzo and Matteo Matteucci and Alessandro Suglia},
+      year={2026},
+      journal={arXiv preprint arXiv:2610.01351},
+      url={https://arxiv.org/abs/2610.01351}, 
+}
+```
+
 
 
