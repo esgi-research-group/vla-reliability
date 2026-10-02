@@ -23,5 +23,7 @@ Vision-Language-Action (VLA) models have achieved high task success rates on rob
 }
 ```
 
+## Acknowledgement
 
+This project builds on **[LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO)**, **[LIBERO-Plus](https://github.com/sylvestf/LIBERO-plus)** and the **[vla-eval](https://github.com/allenai/vla-evaluation-harness)** harness. We thank the teams involved for their contributions to the robotics community.
 
